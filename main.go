@@ -11,4 +11,5 @@ func main()  {
 	fmt.Println("start git test")
 	fmt.Println("this is different here")
 	//test remote and local different
+	fmt.Println("new remote test")
 }
